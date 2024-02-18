@@ -1,7 +1,8 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "TP_ThirdPersonGameMode.h"
-#include "TP_ThirdPersonCharacter.h"
+#include "Core/TP_ThirdPersonGameMode.h"
+
+#include "Player/TP_ThirdPersonCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 ATP_ThirdPersonGameMode::ATP_ThirdPersonGameMode()
